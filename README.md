@@ -11,4 +11,6 @@
 
 **Step 4:-**<code>After adding some data to the README file, you should be able to commit and view the changes.</code><br>Now you are done,you can customize it in various form.
 
-## For more clarification you can check out [Rishabh Dwivedi](https://github.com/Rishabh062/Rishabh062) [Arwaz khan](https://github.com/arwazkhan189/arwazkhan189) [Srishti Gauraha](https://github.com/Srishti44-g/Srishti44-g) *Profiles* **Explore their readme.md file,that will be really helpfull**
+## For more clarification you can check out [Rishabh Dwivedi](https://github.com/Rishabh062/Rishabh062) [Arwaz khan](https://github.com/arwazkhan189/arwazkhan189) [Srishti Gauraha](https://github.com/Srishti44-g/Srishti44-g) *Profiles* **Explore their readme.md file,that will be really helpfull**<br>
+
+### **For Example**
